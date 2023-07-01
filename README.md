@@ -3,7 +3,7 @@ I'm Nakato53, a french youtuber, speaking about web developpment. On this page y
 
 #### 🔗 Link to my Youtube channel
 
-[![YouTube](https://github.com/RefaireLeDev/github-profile/assets/138310761/8e0a38da-e5ee-4433-8e7e-9114091f8f12)](https://www.youtube.com/@nakato53)
+[![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube)](https://youtube.com/@nakato53)
 
 
 ### Languages
